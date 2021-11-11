@@ -6,12 +6,15 @@ a superfast and 100% working spammer on any social app like Whatsapp , Telegram 
 
 **DISCLAIMER: The contents of this repository were written only for educational purposes and not to cause trouble or annoyance to any person or group of persons. The author of this repository is not responsible for any nuisance caused.**
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **TO run this you need following to be installed on your system.**
 1. **python** 
 2. **pyautogui**
 3. **webbrowser**
+
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -26,7 +29,7 @@ a superfast and 100% working spammer on any social app like Whatsapp , Telegram 
 7. loginto whatsapp web which opens after openning the file.
 8. click on the chat you want to spam and wait 20sec.
 9. **BOOM** the spammer started noww.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **to stop the spammer simply close the real_spammer.py file as soon as possible.**
 
