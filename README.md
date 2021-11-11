@@ -29,9 +29,14 @@ a superfast and 100% working spammer on any social app like Whatsapp , Telegram 
 7. loginto whatsapp web which opens after openning the file.
 8. click on the chat you want to spam and wait 20sec.
 9. **BOOM** the spammer started noww.
+
+
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **to stop the spammer simply close the real_spammer.py file as soon as possible.**
+
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -39,5 +44,6 @@ a superfast and 100% working spammer on any social app like Whatsapp , Telegram 
 **1. DO not use this spammer to annoy anyone , use this for fun and educational perpose only.**
 **2. Excess use of this spammer may lead to suspension of your account.**
 **3. use this at your own responsibility the author o this code is not responsibly of any wrong use of this by users**
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
