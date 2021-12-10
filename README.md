@@ -30,6 +30,11 @@ a superfast and 100% working spammer on any social app like Whatsapp , Telegram 
 8. click on the chat you want to spam and wait 20sec.
 9. **BOOM** the spammer started noww.
 
+NOte:: ! **There are may files and i will continue to add new one according to their purpose which will be explained here.**
+1. For superfast spamming use **realspammer.py**
+2. for slow kill only hello word use **slokillhello.py**
+
+
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
