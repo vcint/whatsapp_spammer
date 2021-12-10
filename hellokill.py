@@ -9,4 +9,5 @@ while True:
   pyautogui.press("l")
   pyautogui.press("l")
   pyautogui.press("o")
+  pyautogui.press(".")
   pyautogui.press("enter")
