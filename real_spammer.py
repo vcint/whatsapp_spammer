@@ -6,3 +6,4 @@ time.sleep(20)
 while True:
   pyautogui.hotkey('ctrl','v')
   pyautogui.press("enter")
+  time.sleep(1)
